@@ -1,5 +1,3 @@
-// assets/js/components/ProductCard.js
-
 class ProductCard {
     constructor(data) {
         this.data = data;
